@@ -1,4 +1,4 @@
 # Purpose
-Pull data from Surfline, MagicSeaweed & Windguru APIs to display an aggregated surf forecast.
+Pull data from Surfline, Surf-Forecast & Windguru APIs to display an aggregated surf forecast.
 
 # Stack used
